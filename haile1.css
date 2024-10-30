@@ -1,0 +1,45 @@
+span{color: orangered;}
+h3{text-align: center;
+    position: relative;
+    right: 10px;
+    top: 20px;
+    text-shadow: 5px 5px 0px rgb(203, 203, 45);
+}
+.d{text-align: center;
+padding: 5px;}
+.a{
+    padding: 10px;
+    
+}
+.mes{
+    height: 250px
+;
+width:250px ;}
+input{
+    border-radius: 50px;
+    height: 40px;
+}
+.f{height: 530px;
+width: 300px;
+border-radius: 50px;
+position: fixed;
+left: 150px;
+background-color: rgb(131, 147, 147);}
+button{position: fixed;
+top:  550px;
+left: 250px;
+border-radius: 5px;
+background-color: rgb(237, 229, 231);
+}
+button:hover{background-color: rgba(221, 142, 113, 0.2);
+padding: 10px;}
+textarea{
+    position: relative;
+    top: 100px;
+
+    
+}
+.mes{
+    position: relative;
+    top:99px;
+}
